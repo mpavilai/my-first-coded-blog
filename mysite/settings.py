@@ -25,7 +25,7 @@ SECRET_KEY = '4en_hy$4l(%tjh8q0%sj52e5$t83d6_1(#e-#df+yvon*tpgwq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<mpavilai>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mpavilai.pythonanywhere.com']
 
 
 # Application definition
